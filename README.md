@@ -29,3 +29,15 @@ Github is a website they are store our projects in github repositry
 create file $ touch .gitignore or you can put your file name
 
 if you wanna ignore file then you have to put file name in your/ .gitignore file
+
+if you are using Vscode then use these command 
+
+1. git init <to initialize> 
+2. git add . / or git add <file-name>
+3. git commit -m “whatever-commit-message”
+4. git push origin master <code push request>
+5. git status <for check status of your project>
+6. git remote <to check your project connection>
+7. ls ~/.ssh <to check ssh connetion>
+8. git help <to check git commands>
+
