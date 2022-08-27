@@ -36,7 +36,7 @@ if you are using Vscode then use these command <br>
 
 <h2>Git Terminologies in  Vscode terminal</h2><br>
 
-<h4>Git Configuration<h4><br>
+<h4>Git Configuration</h4><br>
 
 git config –global user.name <Set the username to be used for all actions><br>
 git config –global user.email	<Set the email to be used for all the actions.><br>
