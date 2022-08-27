@@ -122,5 +122,5 @@ git fetch remote	<Fetches the specified branch from the repository.><br>
 git diff ..	<Shows the differences between two branches.><br>
 git pull –rebase	<Fetches the remote copy of the current branch and rebases it into the local copy.><br>
 git push –all	<Push all the local branches to the specified remote repository.><br>
-git help <to check git commands><br>
+git help (to check git commands)<br>
 
