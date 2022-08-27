@@ -45,7 +45,7 @@ git config –system core.editor	<Set the text editor for all the command action
 git config –global –edit	<Open global configuration file in the text editor for manual editing.><br>
 git config –global color.ui auto	<Enable helpful colourization of command line outputs.><br>
 
-<h4>Set Up a Git Repository<h4><br>
+<h4>Set Up a Git Repository</h4><br>
 
 git init <Initialize an empty Git repo in the current project.><br>
 git clone (Repo URL)	<Clone the repository from GitHub to the project folder.><br>
